@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Hongjin Su"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Hongjin Su 苏弘锦"
+name                     : "Hongjin Su"
 description              : # description
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
