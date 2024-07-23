@@ -97,7 +97,7 @@ author:
   avatar           : "images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " " # descrption
   location         : "Hong Kong"
-  email            : "hjsu@cs.hku.hk"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
