@@ -1,0 +1,6 @@
+@inproceedings{hu2020multilingual,
+    title={Multilingual Jointly Trained Acoustic and Written Word Embeddings},
+    author={Yushi Hu and Shane Settle and Karen Livescu},
+    year={2020},
+    booktitle=interspeech
+}
