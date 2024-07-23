@@ -97,14 +97,14 @@ author:
   avatar           : "images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " " # descrption
   location         : "Hong Kong"
-  email            :
+  email            : "hjsu@cs.hku.hk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hjsu@cs.hku.hk"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://hongjin-su.github.io/"
+    - label: "Semantic Scholar"
+      icon: "fas fa-fw fa-book"
+      url: "https://www.semanticscholar.org/author/Hongjin-Su/2152173042"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=zDsbIcgAAAAJ&hl=zh-CN&oi=sra"
