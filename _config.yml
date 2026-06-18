@@ -93,8 +93,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hongjin Su 苏弘锦"
-  avatar           : "images/me.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Hongjin Su"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " " # descrption
   location         : "Hong Kong"
   email            :
